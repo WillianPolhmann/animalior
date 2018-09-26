@@ -4,7 +4,9 @@
   font-size: 28px;
   font-weight: 700;
   line-height: 1.4;
-  text-shadow: 1px 1px #28324e; }
+  text-shadow: 1px 1px #28324e;
+  text-indent: 18%;
+  padding-right: 18% }
   @media (min-width: 992px) {
     .titulo-1 {
       font-size: 32px; } }
@@ -260,3 +262,8 @@
     color: white; }
 
 /*# sourceMappingURL=website.css.map */
+
+
+.email{
+  width: 430px !important;
+}
